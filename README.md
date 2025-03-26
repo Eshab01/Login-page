@@ -16,12 +16,12 @@ A sleek, modern login system with a dark theme, featuring a **Login page**, **Si
 ## 🚀 How to Run
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Eshab01/Login-page.git
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   cd your-repo-name
+   cd Login-page
    ```
 
 3. **Open `index.html` in your browser:**
